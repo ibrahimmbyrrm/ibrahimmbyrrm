@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Swift UIKit and iOS Architecture Patterns
 - 📫 How to reach me 
 -                    Twitter :  https://twitter.com/ibrahimmbyrrm
--                    Linkedin : https://www.linkedin.com/in/ibrahim-ikbal-bayram-521381211/
+-                    Linkedin : https://www.linkedin.com/in/ibrahimmbyrrm0/
 
 
