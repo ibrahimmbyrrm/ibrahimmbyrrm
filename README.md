@@ -1,6 +1,6 @@
 # About Me:
 💪🏻I am passionate about mobile development.<br>
-<br>👨🏻‍💻Strong experience in Swift. <br>
+<br>👨🏻‍💻Strong experience in Swift UIKit and SwiftUI. <br>
 <br>🤝I am looking for a Jr. IOS Developer position to improve my skills.<br>
 <br>⚡️I am currently learning Data Science with Python.<br>
 <br> Have you checked out my last project? -> <a href="https://github.com/ibrahimmbyrrm/HarmonyHub">My Latest Project<a>
